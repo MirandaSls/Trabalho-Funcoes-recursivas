@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654465842 source:c:\users\arthu\documents\estudos\c\trabalho funcoes recursivas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
